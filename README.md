@@ -9,3 +9,4 @@ There are two main parts,
    - Design a single switch matrix using a six pass transistor.
    - Design a PLD which can be used to design any 3 input combinational circuit.
 
+For this simulations we used LTSpice as our simulator. You can find more & download it by [click here](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
