@@ -1,5 +1,5 @@
 # Circuit-Design-and-Simulations-for-timing-analysis-and-PLD
-This is a grop assignment of three members for the module _EN2110 ELECTRONICS 3_ which I'm learning at my university.
+This is a group assignment of three members for the module _EN2110 ELECTRONICS 3_ which I'm learning at my university.
 
 There are two main parts,
 1. __Parasitic Effect in Timing Analysis.__
