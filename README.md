@@ -10,3 +10,6 @@ There are two main parts,
    - Design a PLD which can be used to design any 3 input combinational circuit.
 
 For this simulations we used LTSpice as our simulator. You can find more & download it by [click here](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
+
+Here is question paper: 
+![alt text](https://github.com/AvishkaSandeepa/Circuit-Design-and-Simulations-for-timing-analysis-and-PLD/blob/main/Assignment.jpeg "Logo Title Text 1")
