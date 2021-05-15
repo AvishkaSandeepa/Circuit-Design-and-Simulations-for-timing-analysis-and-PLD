@@ -14,6 +14,8 @@ For this simulations we used LTSpice as our simulator. You can find more & downl
 Here is question paper: 
 ![alt text](https://github.com/AvishkaSandeepa/Circuit-Design-and-Simulations-for-timing-analysis-and-PLD/blob/main/Assignment.jpeg "Logo Title Text 1")
 
+All the details about this assignment can be find from the provided final document: [click here](https://github.com/AvishkaSandeepa/Circuit-Design-and-Simulations-for-timing-analysis-and-PLD/commit/18f49bf08472d6a209d5abba8d6d20ef773dec87)
+
 ## Other Group Members
 1. [Hasya Hansanganie](https://github.com/Hasya1998)
 2. [Nushan Vitharana](https://github.com/nushanVitharana)
