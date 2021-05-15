@@ -1,5 +1,5 @@
 # Circuit-Design-and-Simulations-for-timing-analysis-and-PLD
-This is an assignment for the module _EN2110 ELECTRONICS 3_ which I'm learning at my university.
+This is a grop assignment of three members for the module _EN2110 ELECTRONICS 3_ which I'm learning at my university.
 
 There are two main parts,
 1. __Parasitic Effect in Timing Analysis.__
@@ -13,3 +13,7 @@ For this simulations we used LTSpice as our simulator. You can find more & downl
 
 Here is question paper: 
 ![alt text](https://github.com/AvishkaSandeepa/Circuit-Design-and-Simulations-for-timing-analysis-and-PLD/blob/main/Assignment.jpeg "Logo Title Text 1")
+
+## Other Group Members
+1. [Hasya Hansanganie](https://github.com/Hasya1998)
+2. [Nushan Vitharana](https://github.com/nushanVitharana)
